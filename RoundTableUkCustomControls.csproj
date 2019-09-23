@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://roundtableweb.co.uk</PackageProjectUrl>
+    <RepositoryUrl>https://roundtableweb.co.uk</RepositoryUrl>
+    <PackageReleaseNotes>These are a set of controls that allow us to develop applicaitons quicker and faster.</PackageReleaseNotes>
+    <PackageTags></PackageTags>
+    <Copyright>https://roundtableweb.co.uk Copyrihgt 2019</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Rg.Plugins.Popup" Version="1.1.5.188" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="1.68.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Controls\Progress\RadialProgress.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Controls\RadialProgressBar\RadialProgress.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>

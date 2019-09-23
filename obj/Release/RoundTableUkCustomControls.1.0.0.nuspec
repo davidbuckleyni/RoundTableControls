@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RoundTableUkCustomControls</id>
+    <version>1.0.0</version>
+    <authors>RoundTableUkCustomControls</authors>
+    <owners>RoundTableUkCustomControls</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://roundtableweb.co.uk/</projectUrl>
+    <description>Package Description</description>
+    <releaseNotes>These are a set of controls that allow us to develop applicaitons quicker and faster.</releaseNotes>
+    <copyright>https://roundtableweb.co.uk Copyrihgt 2019</copyright>
+    <repository url="https://roundtableweb.co.uk" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Rg.Plugins.Popup" version="1.1.5.188" exclude="Build,Analyzers" />
+        <dependency id="SkiaSharp.Views.Forms" version="1.68.0" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.2.0.709249" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Release\netstandard2.0\RoundTableUkCustomControls.dll" target="lib\netstandard2.0\RoundTableUkCustomControls.dll" />
+  </files>
+</package>

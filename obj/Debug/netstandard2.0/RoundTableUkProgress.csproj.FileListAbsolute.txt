@@ -1,0 +1,5 @@
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Debug\netstandard2.0\RoundTableUkProgress.deps.json
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Debug\netstandard2.0\RoundTableUkProgress.dll
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Debug\netstandard2.0\RoundTableUkProgress.AssemblyInfoInputs.cache
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Debug\netstandard2.0\RoundTableUkProgress.AssemblyInfo.cs
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Debug\netstandard2.0\RoundTableUkProgress.csprojAssemblyReference.cache

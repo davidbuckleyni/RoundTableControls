@@ -1,0 +1,9 @@
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Release\netstandard2.0\RoundTableUkCustomControls.deps.json
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Release\netstandard2.0\RoundTableUkCustomControls.dll
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\bin\Release\netstandard2.0\RoundTableUkCustomControls.pdb
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\Controls\Progress\RadialProgress.xaml.g.cs
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\RoundTableUkCustomControls.AssemblyInfoInputs.cache
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\RoundTableUkCustomControls.AssemblyInfo.cs
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\RoundTableUkCustomControls.dll
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\RoundTableUkCustomControls.pdb
+D:\GitMasterHome\Xamarin.Forms.CustomControls\RoundTableUkProgress\RoundTableUkProgress\obj\Release\netstandard2.0\XamlC.stamp
